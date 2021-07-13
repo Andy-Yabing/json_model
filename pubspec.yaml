@@ -12,7 +12,7 @@ dependencies:
   build: ">=1.0.0 <1.2.0"
   glob: ^1.1.0
   logging: ^1.0.0
-  io: ^0.3.0
+  io: ^1.0.0
   build_resolvers: ^1.0.0
   build_runner_core: ^3.0.0
   build_runner: ^2.0.5
